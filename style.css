@@ -52,6 +52,24 @@ position: relative;
     z-index: 1;
     left: 5%;
 }
+.Skills{
+    background-color:#202020!important;
+    color: white;
+    border-radius: 1.1em;
+}
+.Skills h5{
+    padding: 8px 0;
+    letter-spacing: 1px;
+}
+.Skills span{
+    color: rgb(255, 199, 96);
+    letter-spacing: 1px;
+}
+.col-md-4,.row,.col-md-6>.form-label{
+    color:rgb(255, 199, 96)!important;
+
+}
+
 
 
 
