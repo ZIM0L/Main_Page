@@ -7,7 +7,7 @@ body {
 }
 .top-main{
     background-color: #151515;
- background-image: url("photo.jpg");
+ background-image: url("images/photo.jpg");
  background-size:contain;
  height: 50em;
  background-repeat: no-repeat;
@@ -67,7 +67,15 @@ position: relative;
 }
 .col-md-4,.row,.col-md-6>.form-label{
     color:rgb(255, 199, 96)!important;
-
+}
+.footer{
+color: white;
+}
+.footer a{
+    transition: ease-in-out 0.2s;
+}
+.footer a:hover{
+    transform: scale(1.2);
 }
 
 
